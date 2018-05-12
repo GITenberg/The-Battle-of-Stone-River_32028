@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35625'
     url: http://www.gutenberg.org/2009/agents/35625
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32028#The-Battle-of-Stone-River
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2010-04-17'
 gutenberg_type: Text
